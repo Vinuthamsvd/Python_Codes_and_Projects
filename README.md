@@ -1,2 +1,2 @@
 # Python_practice
-This Repository is to help me practice Python programming.
+This Repository is to upload codes used for practicing Python programming.
